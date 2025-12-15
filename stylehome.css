@@ -849,8 +849,8 @@ header {
     /* COUNTRY NAME */
     .country-text {
         font-size: 42px;
-        right: 16px;
-        bottom: 20px;
+        right: 18px;
+        bottom: 28px;
     }
 
     /* PREVENT OVERFLOW */
@@ -859,7 +859,7 @@ header {
     }
 
     .country-text {
-    padding: 6px 10px;
+    padding: 9px 12px;
 }
 
     .sec1-video {
@@ -869,7 +869,7 @@ header {
     }
 
     .flag:active {
-  transform: scale(0.93);
+  transform: scale(1.15);
     }
 
 
