@@ -737,9 +737,8 @@ header {
    ========================= */
 @media (max-width: 768px) {
 
-    /*.autoBlur,
-    .autoDisplay,
-    .autoTakeFull {
+    .autoBlur,
+    .autoDisplay {
         animation: none !important;
         filter: none !important;
         opacity: 1 !important;
