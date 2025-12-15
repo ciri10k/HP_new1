@@ -737,7 +737,7 @@ header {
    ========================= */
 @media (max-width: 768px) {
 
-    .autoBlur,
+    /*.autoBlur,
     .autoDisplay,
     .autoTakeFull {
         animation: none !important;
@@ -752,7 +752,7 @@ header {
   }
 
   .container {
-    width: 100%;
+    width: 95%;
   }
 
   /* HEADER */
